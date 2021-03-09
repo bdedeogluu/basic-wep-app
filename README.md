@@ -1,4 +1,4 @@
-##Basic Weather Application by Using API 
+## Basic Weather Application by Using API 
 
 ## Installation
 To start the project on your local server you just need to use commands which are positioned below.
